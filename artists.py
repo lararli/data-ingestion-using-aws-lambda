@@ -1,0 +1,1 @@
+artists = ["Emicida", "Racionais MC's", "Tasha e Tracie"]
